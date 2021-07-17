@@ -1,0 +1,12 @@
+back-env/node_modules
+/back-env/node_modules
+
+/front-end/node_modules
+/front-end/.pnp
+/front-end/.pnp.js
+
+# testing
+/front-end/coverage
+
+# production
+/front-end/build
